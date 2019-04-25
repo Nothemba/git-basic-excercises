@@ -1,0 +1,332 @@
+    1  sudo apt install node.js
+    2  cd Desktop
+    3  cd Makushu
+    4  cd makushu
+    5  cd 123.js
+    6  cd makushu
+    7  cd Desktop
+    8  cd makushu
+    9  node 123.js
+   10  sudo apt install node.js
+   11  node -v
+   12  node -version
+   13  sudo apt install nodejs
+   14  cd umuzi
+   15  cd umuzi
+   16  cd Desktop
+   17  cd Makushu
+   18  cd makushu
+   19  cd 241.js
+   20  node 241.js
+   21  cd Desktop
+   22  cd C14 JS CHALLENGE
+   23  cd Desktop
+   24  cd Desktop
+   25  cd C14 JS CHALLENGE
+   26  cd Desktop
+   27  cd C14
+   28  node .js
+   29  cd Desktop
+   30  cd C14
+   31  node Untitled-1
+   32  cd Desktop
+   33  cd C14
+   34  node Untitled-1
+   35  cd C14
+   36  node .js
+   37  cd C14
+   38  cd Desktop
+   39  cd C14
+   40  .js
+   41  cd Desktop
+   42  cd C14
+   43  node challenge2.js
+   44  cd Desktop
+   45  cd Desktop
+   46  cd C14
+   47  node challenge2.js
+   48  npm run dev
+   49  sudo apt install npm
+   50  npm run dev
+   51  sudo apt install npm
+   52  npm run dev
+   53  sudo apt install node
+   54  sudo apt install nodejs
+   55  cd Desktop
+   56  cd Desktop
+   57  sudo apt install nodejs
+   58  cd
+   59  exit
+   60  Is
+   61  ls
+   62  pwd
+   63  find
+   64  exit
+   65  cd desktop
+   66  cd Desktop
+   67  mkdir myProject
+   68  touch app.js
+   69  touch styles.css
+   70  touch /myProject/ app.js
+   71  touch myProject app.js
+   72  clear
+   73  ls
+   74  cd myProject
+   75  ls
+   76  touch app.js
+   77  cd myProject
+   78  cd ..
+   79  ls
+   80  mkdir myProject2
+   81  pwd
+   82  ls
+   83  cd myProject
+   84  ls
+   85  cd app.js .. /myProject2/
+   86  mv app.js .. /myProject2/
+   87  mv app.js ../myProject2/
+   88  ls
+   89  cd ..
+   90  ls
+   91  cd myProject
+   92  cd myProject2
+   93  cd..
+   94  cd ..
+   95  ls
+   96  cd myProject2
+   97  ls
+   98  pwd
+   99  ls
+  100  cd Desktop
+  101  ls
+  102  cd myProject
+  103  cd myProject2
+  104  cd ..
+  105  cd myProject2
+  106  ls
+  107  cp app.js ../myProject/
+  108  ls
+  109  cd ..
+  110  cd myProject
+  111  ls
+  112  cd Desktop
+  113  mkdir myP
+  114  cd myP
+  115  touch Styles.css
+  116  ls
+  117  touch appl.js
+  118  ls
+  119  cd ..
+  120  mkdir myP2
+  121  ls
+  122  myP2
+  123  cd myP2
+  124  cd ..
+  125  cd myP
+  126  find styles.css
+  127  cd desktop
+  128  cd Desktop
+  129  ls
+  130  find myProject
+  131  find myP
+  132  rm -r myP
+  133  ls
+  134  rm myP2
+  135  myP2
+  136  pwd
+  137  cd myP2
+  138  ls
+  139  rm -r myP2
+  140  pwd
+  141  cd Desktop
+  142  ls
+  143  rmdir myP
+  144  cd myP
+  145  ls
+  146  rmdir appl.js
+  147  rmdir myP2
+  148  cd ..
+  149  rmdir myP
+  150  rm -r myP
+  151  pwd
+  152  ls
+  153  rm -r myP2
+  154  ls
+  155  rm -r makushu
+  156  ls
+  157  cd myProject
+  158  ls
+  159  cd ..
+  160  cd myProject2
+  161  ls
+  162  touch style.css
+  163  ls
+  164  cp myProject2/style.css myProject/
+  165  git clone https://github.com/Nothemba/myPortfolio.git
+  166  tnothemba@gmail.com
+  167  git clone https://github.com/Nothemba/myPortfolio.git
+  168  git status
+  169  git add
+  170  exit
+  171  git --global uder.name "Nothemba Tsheme"
+  172  man
+  173  git config
+  174  man
+  175  config
+  176  sudo port install git-core
+  177  sudo apt install git-core
+  178  git config --global user.name "Nothemba Tsheme"
+  179  git config --global user.email 'tnothemba@gmail.com
+  180  git config --list
+  181  exit
+  182  git config --global user.name "Nothemba Tsheme"
+  183  git config --global user.email "tnothemba@gmail.com
+  184  node Dice.js
+  185  cd Desktop
+  186  cd
+  187  cd Desktop
+  188  clear
+  189  node Dice.js
+  190  cd
+  191  cd Desktop
+  192  ls
+  193  mv taxiApp.js Nothemba
+  194  ls
+  195  mv taxOpp.html Nothemba
+  196  pwd
+  197  mv taxOApp.html Nothemba
+  198  mv taxoApp.html Nothemba
+  199  mv uniqueChar.js Nothemba
+  200  mv Dice.js appjs grid.css grid.grid.js grid.html Nothemba
+  201  mv Dice.js app.js grid.css grid.grid.js grid.html Nothemba
+  202  mv Dice.js app.js grid.css grid.js grid.html Nothemba
+  203  mv Dice.js Nothemba
+  204  ls
+  205  mv objectOrientedProgramming.js
+  206  mv Grid.js Grid.html Grid.css index.htmlNothemba
+  207  mv Grid.js Grid.html Grid.css index.html Nothemba
+  208  ls
+  209  rm objectOrientedProgramming
+  210  cd
+  211  cd Desktop
+  212  rm objectOrientedProgramming
+  213  rm objectsOrientedProgramming
+  214  mv styles.css Nothemba
+  215  mv Challengies.html dateandtime.js Nothemba
+  216  mv Challenges.html dateandtime.js Nothemba
+  217  mv challenges.html dateandtime.js Nothemba
+  218  exit
+  219  git -v
+  220  sudo apt-get install git
+  221  giv -v
+  222  git -v
+  223  git --version
+  224  git config --global user.name "Nothemba Tsheme"
+  225  git config --global user.email "tnothemba@gmai.com
+  226  exit
+  227  git config user.name
+  228  git config user.email
+  229  git config user.email "tnothemba@gmail.com"
+  230  git config --global user.email "tnothemba@gmail.com"
+  231  git config user.email
+  232  cd Desktop
+  233  cd Nothemba
+  234  cd ..
+  235  mkdir OOP
+  236  cd OOP
+  237  cd ..
+  238  cd Nothemba
+  239  mv Dice.js OOP
+  240  cd ..
+  241  cd OOP
+  242  ls
+  243  cd OPP
+  244  pwd
+  245  ls
+  246  git init
+  247  echo "# OOP" >> DEADME.md
+  248  git add
+  249  git add .
+  250  git commit -m
+  251  git commit -m "first commit on dice project"
+  252  git remote add origin https://github.com/Nothemba/OOP.git
+  253  git push -u origin master
+  254  Nothemba Tsheme
+  255  git push -u origin master
+  256  clear
+  257  git status
+  258  touch dice.html
+  259  git status
+  260  git add dice.html
+  261  git status
+  262  git commit -m "commiting html file"
+  263  git push -u origin master
+  264  git status
+  265  git status --short
+  266  cd Destop
+  267  cd
+  268  cd Desktop
+  269  cd Nothemba
+  270  node Dice.js
+  271  cd Desktop
+  272  mkdir git-basic-excercises
+  273  cd git-basic-excercises
+  274  ls -a
+  275  git init
+  276  ls -a
+  277  git status
+  278  touch README.md
+  279  ls -a
+  280  git status
+  281  git log
+  282  git add 
+  283  git add README.md
+  284  git status
+  285  git commit -m "initial commit"
+  286  git log
+  287  q
+  288  exit
+  289  git log
+  290  cd Desktop
+  291  cd git-basic-excercises
+  292  git log
+  293  nano README.md
+  294  cat README.md
+  295  git status
+  296  git commit README.md
+  297  nano README.md
+  298  git status
+  299  git commit -m "Third Commit"
+  300  git add README.md
+  301  git status
+  302  git commit -m "Third Commit"
+  303  git log
+  304  q
+  305  git checkout commit a8c3c1f5325ed2d80e4164bf67f3f1029631bf9d
+  306  exit
+  307  cd desktop
+  308  cd Desktop
+  309  cd git-basic-excercises
+  310  git checkout commit a8c3c1f5325ed2d80e4164bf67f3f1029631bf9d
+  311  cat README.md
+  312  git checkout master
+  313  git branch
+  314  git checkout -b [milkshake-flavours
+  315  git checkout -b [milkshake-flavours]
+  316  git checkout -b milkshake-flavours
+  317  git branch
+  318  cd milkshake-flavours
+  319  git checkout milkshake-flavours
+  320  git checkout master
+  321  git branch
+  322  git checkout milkshake-flavours
+  323  git checkout
+  324  git branch
+  325  nano milkshakes.md
+  326  git status
+  327  git add milkshakes.md
+  328  git commit -m "added initial flavours"
+  329  git log
+  330  git checkout 98bd3612fe5b14238ac9328f3ef2a5882925ec9d
+  331  git checkout master
+  332  history > history.txt
